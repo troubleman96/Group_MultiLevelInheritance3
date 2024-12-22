@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\bin\Debug\net9.0\Group_MultipleInheritance03.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\bin\Debug\net9.0\Group_MultipleInheritance03.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\bin\Debug\net9.0\Group_MultipleInheritance03.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\bin\Debug\net9.0\Group_MultipleInheritance03.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\bin\Debug\net9.0\Group_MultipleInheritance03.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\refint\Group_MultipleInheritance03.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\Group_MultipleInheritance03.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Group_MultipleInheritance03\Group_MultipleInheritance03\obj\Debug\net9.0\ref\Group_MultipleInheritance03.dll
